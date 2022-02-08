@@ -15,6 +15,4 @@ About Jonathan Works
 
 [LinkedIn](https://www.linkedin.com/in/jgworks)
 
-[Google+](https://plus.google.com/+JonathanWorks)
-
 [Twitter](https://twitter.com/jgworks_)
