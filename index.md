@@ -9,7 +9,8 @@ layout: home
 <br>
 About Jonathan Works
 </h1>
-[Keybase](https://keybase.io/jgworks)([Key](https://keybase.io/jgworks/key.asc))
+
+[Keybase](https://keybase.io/jgworks)
 
 [Github](https://github.com/jgworks)
 
