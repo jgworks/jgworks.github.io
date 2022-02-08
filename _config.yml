@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jonathan Works
-email: jgworks@gmail.com
+email: me@jonathan.works
 description: > # this means to ignore newlines until "baseurl:"
-  Personal blog of Jonathan Works
+  Personal site of Jonathan Works
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonathan.works" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jgworks_
@@ -26,7 +26,7 @@ github_username:  jgworks
 markdown: kramdown
 theme: minima
 gems:
-  - jekyll-feed
+ - jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
+ - Gemfile
+ - Gemfile.lock
